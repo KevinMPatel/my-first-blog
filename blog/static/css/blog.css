@@ -104,6 +104,7 @@ h4 {
   color: #C25100;
   background: none;
 border-color: #C25100;
+padding-left: 10px;
 }
 
 
@@ -113,6 +114,7 @@ border-color: #C25100;
 .btn-default:hover {
   color: #FFFFFF;
   background-color: #C25100;
+  padding-left:10px;
 }
 
 
